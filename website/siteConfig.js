@@ -68,7 +68,7 @@ const siteConfig = {
 
     socialMedia: {
         linkedin: 'xavier-roca-b84b6423b',
-        twitter: 'N/A',
+        twitter: 'no twitter',
         github: 'xaviersoftdev',
     },
 
